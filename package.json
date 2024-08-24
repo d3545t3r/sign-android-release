@@ -1,0 +1,18 @@
+{
+  "name": "sign-android-release",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "packages/sign-android-release",
+    "packages/sign-android-release-test",
+    "packages_imported/kotlin-node/20.11.5-pre.693",
+    "packages_imported/kotlin-actions-toolkit/0.0.1-pre.693",
+    "packages_imported/kotlin-test-js-runner/0.0.1"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
